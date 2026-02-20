@@ -25,9 +25,9 @@ on:
        default: solutions/
 env:
 #edit your values here
-  ENVIRONMENT_URL: '<ENVIRONMENTURL>'
-  CLIENT_ID: '<APPID>'
-  TENANT_ID: '<TENANT ID>'
+  ENVIRONMENT_URL: 'https://operations-ciellos-sandbox-1.crm.dynamics.com/'
+  CLIENT_ID: '7e103436-2b7a-40f7-ac94-02b97ff278c7'
+  TENANT_ID: '46e85934-1fab-4533-a4ad-de92ce1fd81a'
 permissions:
   contents: write
 jobs:
