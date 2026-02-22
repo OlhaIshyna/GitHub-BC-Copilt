@@ -7,9 +7,9 @@ on:
     inputs:
       # Change this value
       solution_name:
-        description: 'BC Overdue Balances Notifier (Test CI/CD)'
+        description: 'BC Overdue Notifier Solution'
         required: true
-        default: ALMLab
+        default: BC Overdue Notifier Solution
        #Do Not change these values
       solution_exported_folder:
         description: 'folder name for staging the exported solution *do not change*'
