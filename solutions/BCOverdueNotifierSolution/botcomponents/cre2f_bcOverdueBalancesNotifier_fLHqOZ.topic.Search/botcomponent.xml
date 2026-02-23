@@ -1,0 +1,11 @@
+<botcomponent schemaname="cre2f_bcOverdueBalancesNotifier_fLHqOZ.topic.Search">
+  <componenttype>9</componenttype>
+  <description>Create generative answers from knowledge sources.</description>
+  <iscustomizable>0</iscustomizable>
+  <name>Conversational boosting</name>
+  <parentbotid>
+    <schemaname>cre2f_bcOverdueBalancesNotifier_fLHqOZ</schemaname>
+  </parentbotid>
+  <statecode>0</statecode>
+  <statuscode>1</statuscode>
+</botcomponent>

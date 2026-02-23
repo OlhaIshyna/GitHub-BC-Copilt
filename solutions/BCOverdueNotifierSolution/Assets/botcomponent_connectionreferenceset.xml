@@ -1,0 +1,5 @@
+<botcomponent_connectionreferenceset>
+  <botcomponent_connectionreference botcomponentid.schemaname="cre2f_bcOverdueBalancesNotifier_fLHqOZ.action.Office365Outlook-SendanemailV2" connectionreferenceid.connectionreferencelogicalname="cre2f_bcOverdueBalancesNotifier_fLHqOZ.shared_office365.4a934ea30c0343dd97c6625d1fc48289">
+    <iscustomizable>1</iscustomizable>
+  </botcomponent_connectionreference>
+</botcomponent_connectionreferenceset>
